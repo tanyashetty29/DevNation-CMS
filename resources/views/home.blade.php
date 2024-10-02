@@ -887,7 +887,7 @@
                         <h1 class="display-1 fs-58 mb-7" data-cue="slideInDown" data-group="page-title"
                             data-delay="600" data-show="true"
                             style="animation-name: slideInDown; animation-duration: 700ms; animation-timing-function: ease; animation-delay: 900ms; animation-direction: normal; animation-fill-mode: both;">
-                            We bring rapid solutions for your business.</h1>
+                            At DevNation, we turn ideas into code and code into community.</h1>
                         <div class="d-flex justify-content-center mb-5 mb-md-0" data-cues="slideInDown"
                             data-group="page-title-buttons" data-delay="900" data-cue="slideInDown"
                             data-disabled="true" data-show="true"
